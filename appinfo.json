@@ -1,0 +1,25 @@
+{
+    "shortName": "Calendar App",
+    "versionCode": 9,
+    "watchapp": {
+        "watchface": false
+    },
+    "capabilities": [
+        ""
+    ],
+    "versionLabel": "2.7",
+    "companyName": "William Heaton",
+    "longName": "Calendar App",
+    "appKeys": {},
+    "uuid": "B41E3DCF-6162-4147-9C58-643E1091FB93",
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "file": "images/menu_icon_calendar.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    }
+}

@@ -1,0 +1,1270 @@
+Archive member included because of file (symbol)
+
+/opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                              src/calendarApp.c.8.o (app_event_loop)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+                              src/calendarWindow.c.8.o (__aeabi_dsub)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+                              src/calendarWindow.c.8.o (__aeabi_dmul)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+                              src/calendarWindow.c.8.o (__aeabi_d2iz)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+                              src/calendarWindow.c.8.o (__aeabi_i2f)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+                              src/calendarWindow.c.8.o (__aeabi_fdiv)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+                              src/calendarWindow.c.8.o (ceil)
+/usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+                              src/calendarWindow.c.8.o (floor)
+/usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+                              /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o) (__aeabi_dcmpgt)
+
+Allocating common symbols
+Common symbol       size              file
+
+days_layer          0x4               src/calendarWindow.c.8.o
+curTime             0x4               src/calendarWindow.c.8.o
+calendar_window     0x4               src/calendarWindow.c.8.o
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .init          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .fini          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .jcr           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .text          0x0000000000000000       0x68 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .ARM.exidx     0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .text          0x0000000000000000        0x0 src/calendarApp.c.8.o
+ .bss           0x0000000000000000        0x0 src/calendarApp.c.8.o
+ .text          0x0000000000000000        0x0 src/calendarUtils.c.8.o
+ .bss           0x0000000000000000        0x0 src/calendarUtils.c.8.o
+ .text.months_to_days
+                0x0000000000000000       0x12 src/calendarUtils.c.8.o
+ .text          0x0000000000000000        0x0 src/calendarWindow.c.8.o
+ .bss           0x0000000000000000        0x0 src/calendarWindow.c.8.o
+ .text.processEncoded
+                0x0000000000000000       0x34 src/calendarWindow.c.8.o
+ .text          0x0000000000000000        0x0 src/settings.c.8.o
+ .bss           0x0000000000000000        0x0 src/settings.c.8.o
+ .text          0x0000000000000000        0x0 appinfo.auto.c.8.o
+ .bss           0x0000000000000000        0x0 appinfo.auto.c.8.o
+ .bss           0x0000000000000000        0x0 /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_data_service_subscribe__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_data_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_service_peek
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_service_set_samples_per_update
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_service_set_sampling_rate
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_tap_service_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_tap_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_add_to_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_clear_icon
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_remove_from_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_set_background_color
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_set_click_config_provider
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_set_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.action_bar_layer_set_icon
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_get_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_is_scheduled
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_schedule
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_set_curve
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_set_delay
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_set_duration
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_set_handlers
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_set_implementation
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_unschedule
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.animation_unschedule_all
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_comm_get_sniff_interval
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_comm_set_sniff_interval
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_deregister_callbacks
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_open
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_sync_deinit
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_sync_get
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_sync_init
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_sync_set
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_timer_cancel
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_timer_register
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_timer_reschedule
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.atan2_lookup
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.atoi     0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.atol     0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.battery_state_service_peek
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.battery_state_service_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.battery_state_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_set_alignment
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_set_background_color
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_set_bitmap
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_set_compositing_mode
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bluetooth_connection_service_peek
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bluetooth_connection_service_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bluetooth_connection_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.click_number_of_clicks_counted
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.click_recognizer_get_button_id
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.clock_copy_time_string
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.clock_is_24h_style
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.cos_lookup
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.data_logging_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.data_logging_finish
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.data_logging_log
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_calc_buffer_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_calc_buffer_size_from_tuplets
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_find
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_merge
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_read_begin_from_buffer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_read_first
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_read_next
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_serialize_tuplets
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_serialize_tuplets_to_buffer__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_serialize_tuplets_to_buffer_with_iter
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_begin
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_cstring
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_end
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_int
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_int16
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_int32
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_int8
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_tuplet
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_uint32
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_write_uint8
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.fonts_load_custom_font
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.fonts_unload_custom_font
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.free     0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gbitmap_create_as_sub_bitmap
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gbitmap_create_with_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gbitmap_create_with_resource
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gbitmap_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gmtime   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_draw_filled
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_draw_outline
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_move_to
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpath_rotate_to
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gpoint_equal
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_context_set_compositing_mode
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_draw_bitmap_in_rect
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_draw_circle
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_draw_pixel
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_draw_rect
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_draw_round_rect
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_fill_circle
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.graphics_text_layout_get_max_used_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_align
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_center_point
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_clip
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_contains_point
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_crop
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_equal
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_is_empty
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.grect_standardize
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.gsize_equal
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.inverter_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.inverter_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.inverter_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_create_with_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_get_clips
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_get_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_get_frame
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_get_hidden
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_get_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_insert_above_sibling
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_insert_below_sibling
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_remove_child_layers
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_remove_from_parent
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_set_bounds
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_set_clips
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_set_frame
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.layer_set_hidden
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.light_enable
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.light_enable_interaction
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.malloc   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.memcpy   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.memmove  0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_cell_basic_draw
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_cell_basic_header_draw
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_cell_title_draw
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_index_compare
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_get_scroll_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_get_selected_index
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_reload_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_set_callbacks__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_set_selected_index
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_set_selected_next
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_get_value
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_set_label
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_set_max
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_set_min
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_set_step_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.number_window_set_value
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_delete
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_get_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_read_bool
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_read_data__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_read_int
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_read_string__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_write_bool
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_write_data__deprecated
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_write_int
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_write_string
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_create_layer_frame
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_update_gpoint
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_update_grect
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.property_animation_update_int16
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.psleep   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rand     0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.resource_get_handle
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.resource_load
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.resource_load_byte_range
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.resource_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_layer_increment_angle
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_layer_set_angle
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_layer_set_corner_clip_color
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_set_compositing_mode
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.rot_bitmap_set_src_ic
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_add_child
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_get_content_offset
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_get_content_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_get_shadow_hidden
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_scroll_down_click_handler
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_scroll_up_click_handler
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_callbacks
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_click_config_onto_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_content_offset
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_content_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_frame
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.scroll_layer_set_shadow_hidden
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_get_selected_index
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_set_selected_index
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.sin_lookup
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.srand    0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.strlen   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.strncat  0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.strncmp  0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.strncpy  0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_create
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_destroy
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_get_content_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_get_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_get_text
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_background_color
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_font
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_overflow_mode
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_text
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_text_alignment
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.text_layer_set_text_color
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.tick_timer_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.time_ms  0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.vibes_cancel
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.vibes_double_pulse
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.vibes_enqueue_custom_pattern
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.vibes_long_pulse
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.vibes_short_pulse
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_get_click_config_provider
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_get_fullscreen
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_is_loaded
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_set_click_config_provider_with_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_set_status_bar_icon
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_stack_contains_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_stack_get_top_window
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_stack_pop
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_stack_pop_all
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_stack_remove
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_focus_service_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_focus_service_unsubscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_get_user_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_set_user_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_get_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_inbox_size_maximum
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_outbox_size_maximum
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_register_inbox_dropped
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_register_inbox_received
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_register_outbox_failed
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_register_outbox_sent
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.app_message_set_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_long_click_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_multi_click_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_raw_click_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_set_click_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_serialize_tuplets_to_buffer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_read_string
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.persist_write_data
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.dict_size
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.simple_menu_layer_get_menu_layer
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.accel_data_service_subscribe
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.calloc   0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.bitmap_layer_get_bitmap
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.menu_layer_set_callbacks
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text.window_get_click_config_context
+                0x0000000000000000        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .text          0x0000000000000000        0xc /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x50 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .text          0x0000000000000000       0xa4 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xd4 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .jcr           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+ .init          0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+ .fini          0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+APP              0x0000000000000000 0x0000000000006000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+LOAD src/calendarApp.c.8.o
+LOAD src/calendarUtils.c.8.o
+LOAD src/calendarWindow.c.8.o
+LOAD src/settings.c.8.o
+LOAD appinfo.auto.c.8.o
+LOAD /opt/pebble/Pebble/lib/libpebble.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+
+.header         0x0000000000000000       0x82
+ *(.pbl_header)
+ .pbl_header    0x0000000000000000       0x82 appinfo.auto.c.8.o
+                0x0000000000000000                __pbl_app_info
+
+.text           0x0000000000000088     0x1d44
+ *(.text)
+ .text          0x0000000000000088       0x14 /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .text          0x000000000000009c      0x370 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+                0x000000000000009c                __aeabi_drsub
+                0x00000000000000a4                __aeabi_dsub
+                0x00000000000000a4                __subdf3
+                0x00000000000000a8                __adddf3
+                0x00000000000000a8                __aeabi_dadd
+                0x0000000000000320                __aeabi_ui2d
+                0x0000000000000320                __floatunsidf
+                0x0000000000000340                __floatsidf
+                0x0000000000000340                __aeabi_i2d
+                0x0000000000000364                __extendsfdf2
+                0x0000000000000364                __aeabi_f2d
+                0x00000000000003a0                __aeabi_ul2d
+                0x00000000000003a0                __floatundidf
+                0x00000000000003b0                __floatdidf
+                0x00000000000003b0                __aeabi_l2d
+ .text          0x000000000000040c      0x424 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+                0x000000000000040c                __aeabi_dmul
+                0x000000000000040c                __muldf3
+                0x0000000000000660                __aeabi_ddiv
+                0x0000000000000660                __divdf3
+ .text          0x0000000000000830       0x50 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+                0x0000000000000830                __fixdfsi
+                0x0000000000000830                __aeabi_d2iz
+ .text          0x0000000000000880      0x21c /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+                0x0000000000000880                __aeabi_frsub
+                0x0000000000000888                __subsf3
+                0x0000000000000888                __aeabi_fsub
+                0x000000000000088c                __aeabi_fadd
+                0x000000000000088c                __addsf3
+                0x00000000000009ec                __aeabi_ui2f
+                0x00000000000009ec                __floatunsisf
+                0x00000000000009f4                __aeabi_i2f
+                0x00000000000009f4                __floatsisf
+                0x0000000000000a10                __floatundisf
+                0x0000000000000a10                __aeabi_ul2f
+                0x0000000000000a20                __floatdisf
+                0x0000000000000a20                __aeabi_l2f
+ .text          0x0000000000000a9c      0x2a0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+                0x0000000000000a9c                __mulsf3
+                0x0000000000000a9c                __aeabi_fmul
+                0x0000000000000c04                __divsf3
+                0x0000000000000c04                __aeabi_fdiv
+ *fill*         0x0000000000000d3c        0x4 
+ .text          0x0000000000000d40      0x110 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+                0x0000000000000d40                ceil
+ .text          0x0000000000000e50      0x118 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+                0x0000000000000e50                floor
+ .text          0x0000000000000f68      0x110 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+                0x0000000000000f68                __gtdf2
+                0x0000000000000f68                __gedf2
+                0x0000000000000f70                __ltdf2
+                0x0000000000000f70                __ledf2
+                0x0000000000000f78                __cmpdf2
+                0x0000000000000f78                __eqdf2
+                0x0000000000000f78                __nedf2
+                0x0000000000000ff4                __aeabi_cdrcmple
+                0x0000000000001004                __aeabi_cdcmple
+                0x0000000000001004                __aeabi_cdcmpeq
+                0x0000000000001014                __aeabi_dcmpeq
+                0x0000000000001028                __aeabi_dcmplt
+                0x000000000000103c                __aeabi_dcmple
+                0x0000000000001050                __aeabi_dcmpge
+                0x0000000000001064                __aeabi_dcmpgt
+ *(.text.*)
+ .text.handle_tick
+                0x0000000000001078       0x18 src/calendarApp.c.8.o
+ .text.startup.main
+                0x0000000000001090       0x74 src/calendarApp.c.8.o
+                0x0000000000001090                main
+ .text.isleap   0x0000000000001104       0x2c src/calendarUtils.c.8.o
+                0x0000000000001104                isleap
+ .text.factorDate
+                0x0000000000001130       0x26 src/calendarUtils.c.8.o
+                0x0000000000001130                factorDate
+ .text.years_to_days
+                0x0000000000001156       0x1e src/calendarUtils.c.8.o
+                0x0000000000001156                years_to_days
+ .text.ymd_to_scalar
+                0x0000000000001174       0x32 src/calendarUtils.c.8.o
+                0x0000000000001174                ymd_to_scalar
+ .text.p_mktime
+                0x00000000000011a6       0x42 src/calendarUtils.c.8.o
+                0x00000000000011a6                p_mktime
+ .text.wdayOfFirst
+                0x00000000000011e8       0x16 src/calendarUtils.c.8.o
+                0x00000000000011e8                wdayOfFirst
+ .text.daysInMonth
+                0x00000000000011fe       0x4c src/calendarUtils.c.8.o
+                0x00000000000011fe                daysInMonth
+ *fill*         0x000000000000124a        0x2 
+ .text.traduction
+                0x000000000000124c      0x124 src/calendarUtils.c.8.o
+                0x000000000000124c                traduction
+ .text.click_config_provider
+                0x0000000000001370       0x34 src/calendarWindow.c.8.o
+ .text.setColors
+                0x00000000000013a4       0x38 src/calendarWindow.c.8.o
+                0x00000000000013a4                setColors
+ .text.setInvColors
+                0x00000000000013dc       0x1e src/calendarWindow.c.8.o
+                0x00000000000013dc                setInvColors
+ *fill*         0x00000000000013fa        0x2 
+ .text.draw_date
+                0x00000000000013fc       0xbc src/calendarWindow.c.8.o
+                0x00000000000013fc                draw_date
+ .text.draw_labels
+                0x00000000000014b8       0x98 src/calendarWindow.c.8.o
+                0x00000000000014b8                draw_labels
+ .text.draw_grid
+                0x0000000000001550       0x8a src/calendarWindow.c.8.o
+                0x0000000000001550                draw_grid
+ *fill*         0x00000000000015da        0x2 
+ .text.days_layer_update_callback
+                0x00000000000015dc      0x290 src/calendarWindow.c.8.o
+                0x00000000000015dc                days_layer_update_callback
+ .text.get_event_days
+                0x000000000000186c       0xe0 src/calendarWindow.c.8.o
+                0x000000000000186c                get_event_days
+ .text.clearCalEvents
+                0x000000000000194c       0xc4 src/calendarWindow.c.8.o
+                0x000000000000194c                clearCalEvents
+ .text.monthChanged
+                0x0000000000001a10       0x28 src/calendarWindow.c.8.o
+                0x0000000000001a10                monthChanged
+ .text.up_single_click_handler
+                0x0000000000001a38       0x1c src/calendarWindow.c.8.o
+                0x0000000000001a38                up_single_click_handler
+ .text.down_single_click_handler
+                0x0000000000001a54       0x1c src/calendarWindow.c.8.o
+                0x0000000000001a54                down_single_click_handler
+ .text.select_single_click_handler
+                0x0000000000001a70       0x20 src/calendarWindow.c.8.o
+                0x0000000000001a70                select_single_click_handler
+ .text.calendar_window_unload
+                0x0000000000001a90       0x18 src/calendarWindow.c.8.o
+                0x0000000000001a90                calendar_window_unload
+ .text.calendar_window_load
+                0x0000000000001aa8       0x64 src/calendarWindow.c.8.o
+                0x0000000000001aa8                calendar_window_load
+ .text.app_event_loop
+                0x0000000000001b0c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b0c                app_event_loop
+ .text.app_log  0x0000000000001b18        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b18                app_log
+ .text.dict_write_uint16
+                0x0000000000001b24        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b24                dict_write_uint16
+ .text.fonts_get_system_font
+                0x0000000000001b30        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b30                fonts_get_system_font
+ .text.graphics_context_set_fill_color
+                0x0000000000001b3c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b3c                graphics_context_set_fill_color
+ .text.graphics_context_set_stroke_color
+                0x0000000000001b48        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b48                graphics_context_set_stroke_color
+ .text.graphics_context_set_text_color
+                0x0000000000001b54        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b54                graphics_context_set_text_color
+ .text.graphics_draw_line
+                0x0000000000001b60        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b60                graphics_draw_line
+ .text.graphics_fill_rect
+                0x0000000000001b6c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b6c                graphics_fill_rect
+ .text.layer_add_child
+                0x0000000000001b78        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b78                layer_add_child
+ .text.layer_create
+                0x0000000000001b84        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b84                layer_create
+ .text.layer_destroy
+                0x0000000000001b90        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b90                layer_destroy
+ .text.layer_get_bounds
+                0x0000000000001b9c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001b9c                layer_get_bounds
+ .text.layer_mark_dirty
+                0x0000000000001ba8        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001ba8                layer_mark_dirty
+ .text.layer_set_update_proc
+                0x0000000000001bb4        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bb4                layer_set_update_proc
+ .text.localtime
+                0x0000000000001bc0        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bc0                localtime
+ .text.memset   0x0000000000001bcc        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bcc                memset
+ .text.persist_exists
+                0x0000000000001bd8        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bd8                persist_exists
+ .text.snprintf
+                0x0000000000001be4        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001be4                snprintf
+ .text.strcat   0x0000000000001bf0        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bf0                strcat
+ .text.strcmp   0x0000000000001bfc        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001bfc                strcmp
+ .text.strcpy   0x0000000000001c08        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c08                strcpy
+ .text.strftime
+                0x0000000000001c14        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c14                strftime
+ .text.tick_timer_service_subscribe
+                0x0000000000001c20        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c20                tick_timer_service_subscribe
+ .text.time     0x0000000000001c2c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c2c                time
+ .text.window_create
+                0x0000000000001c38        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c38                window_create
+ .text.window_destroy
+                0x0000000000001c44        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c44                window_destroy
+ .text.window_get_root_layer
+                0x0000000000001c50        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c50                window_get_root_layer
+ .text.window_set_background_color
+                0x0000000000001c5c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c5c                window_set_background_color
+ .text.window_set_click_config_provider
+                0x0000000000001c68        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c68                window_set_click_config_provider
+ .text.window_set_fullscreen
+                0x0000000000001c74        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c74                window_set_fullscreen
+ .text.window_set_window_handlers
+                0x0000000000001c80        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c80                window_set_window_handlers
+ .text.window_stack_push
+                0x0000000000001c8c        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c8c                window_stack_push
+ .text.app_message_outbox_begin
+                0x0000000000001c98        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001c98                app_message_outbox_begin
+ .text.app_message_outbox_send
+                0x0000000000001ca4        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001ca4                app_message_outbox_send
+ .text.window_single_click_subscribe
+                0x0000000000001cb0        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001cb0                window_single_click_subscribe
+ .text.window_single_repeating_click_subscribe
+                0x0000000000001cbc        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001cbc                window_single_repeating_click_subscribe
+ .text.graphics_draw_text
+                0x0000000000001cc8        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001cc8                graphics_draw_text
+ .text.persist_read_data
+                0x0000000000001cd4        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001cd4                persist_read_data
+ .text.graphics_text_layout_get_content_size
+                0x0000000000001ce0        0xc /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+                0x0000000000001ce0                graphics_text_layout_get_content_size
+ *(.rodata)
+ .rodata        0x0000000000001cec        0x8 src/calendarWindow.c.8.o
+ *(.rodata*)
+ .rodata.str1.1
+                0x0000000000001cf4       0x56 src/calendarUtils.c.8.o
+ .rodata.str1.1
+                0x0000000000001d4a       0x7d src/calendarWindow.c.8.o
+ *fill*         0x0000000000001dc7        0x1 
+ .rodata.str1.4
+                0x0000000000001dc8        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+
+.glue_7         0x0000000000001dcc        0x0
+ .glue_7        0x0000000000000000        0x0 linker stubs
+
+.glue_7t        0x0000000000001dcc        0x0
+ .glue_7t       0x0000000000000000        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000001dcc        0x0
+ .vfp11_veneer  0x0000000000000000        0x0 linker stubs
+
+.v4_bx          0x0000000000001dcc        0x0
+ .v4_bx         0x0000000000000000        0x0 linker stubs
+
+.iplt           0x0000000000001dcc        0x0
+ .iplt          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+
+.rel.dyn        0x0000000000001dcc        0x0
+ .rel.iplt      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .rel.got       0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+
+.data           0x0000000000001dd0      0x4dd
+ *(.data)
+ .data          0x0000000000001dd0        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .data          0x0000000000001dd0        0x4 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+                0x0000000000001dd0                __dso_handle
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .data          0x0000000000001dd4        0x0 src/calendarApp.c.8.o
+ .data          0x0000000000001dd4        0x0 src/calendarUtils.c.8.o
+ .data          0x0000000000001dd4        0x0 src/calendarWindow.c.8.o
+ .data          0x0000000000001dd4        0x0 src/settings.c.8.o
+ .data          0x0000000000001dd4        0x0 appinfo.auto.c.8.o
+ .data          0x0000000000001dd4        0x0 /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .data          0x0000000000001dd4        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ *fill*         0x0000000000001dd4        0x4 
+ .data          0x0000000000001dd8      0x430 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+                0x0000000000001dd8                _impure_ptr
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .data          0x0000000000002208        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ *(.data.*)
+ .data.months   0x0000000000002208       0x90 src/settings.c.8.o
+                0x0000000000002208                months
+ .data.daysOfWeek
+                0x0000000000002298       0x15 src/settings.c.8.o
+                0x0000000000002298                daysOfWeek
+
+.igot.plt       0x00000000000022b0        0x0
+ .igot.plt      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+
+.got            0x00000000000022b0       0x1c
+ .got           0x00000000000022b0       0x1c /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+
+.got.plt        0x00000000000022cc        0xc
+ .got.plt       0x00000000000022cc        0xc /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+                0x00000000000022cc                _GLOBAL_OFFSET_TABLE_
+
+.bss            0x00000000000022d8       0x10
+ *(.bss)
+ *(.bss.*)
+ .bss.offset    0x00000000000022d8        0x4 src/settings.c.8.o
+                0x00000000000022d8                offset
+ COMMON         0x00000000000022dc        0xc src/calendarWindow.c.8.o
+                0x00000000000022dc                days_layer
+                0x00000000000022e0                curTime
+                0x00000000000022e4                calendar_window
+
+.ARM.attributes
+                0x0000000000000000       0x2f
+ .ARM.attributes
+                0x0000000000000000       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crti.o
+ .ARM.attributes
+                0x0000000000000023       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+ .ARM.attributes
+                0x0000000000000056       0x21 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .ARM.attributes
+                0x0000000000000077       0x33 src/calendarApp.c.8.o
+ .ARM.attributes
+                0x00000000000000aa       0x33 src/calendarUtils.c.8.o
+ .ARM.attributes
+                0x00000000000000dd       0x33 src/calendarWindow.c.8.o
+ .ARM.attributes
+                0x0000000000000110       0x33 src/settings.c.8.o
+ .ARM.attributes
+                0x0000000000000143       0x33 appinfo.auto.c.8.o
+ .ARM.attributes
+                0x0000000000000176       0x21 /opt/pebble/Pebble/lib/libpebble.a(tmpypdyNWpebble.o)
+ .ARM.attributes
+                0x0000000000000197       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000000000001ba       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000000000001dd       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x0000000000000200       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000000000000223       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x0000000000000246       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000279       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .ARM.attributes
+                0x00000000000002ac       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .ARM.attributes
+                0x00000000000002df       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000312       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000345       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000378       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x00000000000003ab       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+ .ARM.attributes
+                0x00000000000003de       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtn.o
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtbegin.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000000       0x34 src/calendarApp.c.8.o
+ .comment       0x0000000000000000       0x34 src/calendarUtils.c.8.o
+ .comment       0x0000000000000000       0x34 src/calendarWindow.c.8.o
+ .comment       0x0000000000000000       0x34 src/settings.c.8.o
+ .comment       0x0000000000000000       0x34 appinfo.auto.c.8.o
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/crtend.o
+
+DISCARD         0x0000000000000000     0x1348
+ libc.a(*)
+ libm.a(*)
+ .debug_info    0x0000000000000000      0x1a7 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_abbrev  0x00000000000001a7      0x107 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_loc     0x00000000000002ae      0x26d /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_aranges
+                0x000000000000051b       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_ranges  0x000000000000053b       0x18 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_line    0x0000000000000553      0x1b9 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_str     0x000000000000070c      0x1c0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+                                        0x200 (size before relaxing)
+ .comment       0x00000000000008cc       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+                                         0x34 (size before relaxing)
+ .ARM.attributes
+                0x00000000000008ff       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ *fill*         0x0000000000000932        0x2 
+ .debug_frame   0x0000000000000934       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_ceil.o)
+ .debug_info    0x0000000000000968      0x1a7 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_abbrev  0x0000000000000b0f      0x107 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_loc     0x0000000000000c16      0x299 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_aranges
+                0x0000000000000eaf       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_ranges  0x0000000000000ecf       0x18 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_line    0x0000000000000ee7      0x1ba /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_str     0x00000000000010a1       0x40 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+                                        0x202 (size before relaxing)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .ARM.attributes
+                0x00000000000010e1       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ .debug_frame   0x0000000000001114       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libm.a(lib_a-s_floor.o)
+ libgcc.a(*)
+ .ARM.attributes
+                0x0000000000001148       0x23 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x000000000000116b       0xfc /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0000000000001267       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x0000000000001314       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x0000000000001328       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_cmpdf2.o)
+ *(.eh_frame)
+OUTPUT(/home/patofet/calendari/build/pebble-app.elf elf32-littlearm)
+
+.debug_line     0x0000000000000000     0x1929
+ .debug_line    0x0000000000000000       0x7e /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .debug_line    0x000000000000007e      0x15d src/calendarApp.c.8.o
+ .debug_line    0x00000000000001db      0x22f src/calendarUtils.c.8.o
+ .debug_line    0x000000000000040a      0x486 src/calendarWindow.c.8.o
+ .debug_line    0x0000000000000890       0xc9 src/settings.c.8.o
+ .debug_line    0x0000000000000959       0xd8 appinfo.auto.c.8.o
+ .debug_line    0x0000000000000a31      0x1f5 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0000000000000c26      0x216 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0000000000000e3c       0x76 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0000000000000eb2      0x116 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x0000000000000fc8      0x139 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x0000000000001101       0xbc /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_line    0x00000000000011bd      0x17f /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_line    0x000000000000133c       0xb6 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_line    0x00000000000013f2      0x103 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .debug_line    0x00000000000014f5       0xd0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_line    0x00000000000015c5      0x1a6 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_line    0x000000000000176b      0x1be /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_info     0x0000000000000000     0x4fc0
+ .debug_info    0x0000000000000000       0xab /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .debug_info    0x00000000000000ab      0x3d6 src/calendarApp.c.8.o
+ .debug_info    0x0000000000000481      0x50e src/calendarUtils.c.8.o
+ .debug_info    0x000000000000098f     0x17b4 src/calendarWindow.c.8.o
+ .debug_info    0x0000000000002143      0x113 src/settings.c.8.o
+ .debug_info    0x0000000000002256      0x306 appinfo.auto.c.8.o
+ .debug_info    0x000000000000255c       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0000000000002609       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x00000000000026b6       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x0000000000002763       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x0000000000002810       0xad /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x00000000000028bd      0x10a /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_info    0x00000000000029c7      0x8e4 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_info    0x00000000000032ab       0xef /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_info    0x000000000000339a      0x894 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .debug_info    0x0000000000003c2e      0x105 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_info    0x0000000000003d33      0x934 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000004667      0x959 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_abbrev   0x0000000000000000     0x129e
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .debug_abbrev  0x0000000000000014      0x1c8 src/calendarApp.c.8.o
+ .debug_abbrev  0x00000000000001dc      0x1ca src/calendarUtils.c.8.o
+ .debug_abbrev  0x00000000000003a6      0x3b8 src/calendarWindow.c.8.o
+ .debug_abbrev  0x000000000000075e       0x6c src/settings.c.8.o
+ .debug_abbrev  0x00000000000007ca       0xad appinfo.auto.c.8.o
+ .debug_abbrev  0x0000000000000877       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x000000000000088b       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x000000000000089f       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x00000000000008b3       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x00000000000008c7       0x14 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x00000000000008db       0xb8 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000993      0x1e6 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000b79       0xbd /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000c36      0x180 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000000db6       0xba /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000e70      0x20f /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_abbrev  0x000000000000107f      0x21f /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_aranges  0x0000000000000000      0x2e8
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/crt0.o
+ .debug_aranges
+                0x0000000000000020       0x28 src/calendarApp.c.8.o
+ .debug_aranges
+                0x0000000000000048       0x60 src/calendarUtils.c.8.o
+ .debug_aranges
+                0x00000000000000a8       0x98 src/calendarWindow.c.8.o
+ .debug_aranges
+                0x0000000000000140       0x18 src/settings.c.8.o
+ .debug_aranges
+                0x0000000000000158       0x18 appinfo.auto.c.8.o
+ .debug_aranges
+                0x0000000000000170       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x0000000000000190       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00000000000001b0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00000000000001d0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00000000000001f0       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/thumb/cortex-m3/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x0000000000000210       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000230       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000250       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000270       0x18 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000288       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_aranges
+                0x00000000000002a8       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x00000000000002c8       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_loc      0x0000000000000000     0x10a9
+ .debug_loc     0x0000000000000000       0x42 src/calendarApp.c.8.o
+ .debug_loc     0x0000000000000042      0x302 src/calendarUtils.c.8.o
+ .debug_loc     0x0000000000000344      0x91e src/calendarWindow.c.8.o
+ .debug_loc     0x0000000000000c62       0x2c /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000c8e       0x1e /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000cac       0x5c /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000d08       0xae /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_loc     0x0000000000000db6      0x1ad /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000f63      0x146 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_ranges   0x0000000000000000      0x138
+ .debug_ranges  0x0000000000000000       0x18 src/calendarApp.c.8.o
+ .debug_ranges  0x0000000000000018       0x68 src/calendarUtils.c.8.o
+ .debug_ranges  0x0000000000000080       0xa0 src/calendarWindow.c.8.o
+ .debug_ranges  0x0000000000000120       0x18 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+
+.debug_str      0x0000000000000000     0x163f
+ .debug_str     0x0000000000000000      0x296 src/calendarApp.c.8.o
+                                        0x331 (size before relaxing)
+ .debug_str     0x0000000000000296       0xa2 src/calendarUtils.c.8.o
+                                        0x255 (size before relaxing)
+ .debug_str     0x0000000000000338      0x9af src/calendarWindow.c.8.o
+                                        0xc60 (size before relaxing)
+ .debug_str     0x0000000000000ce7       0x12 src/settings.c.8.o
+                                        0x17c (size before relaxing)
+ .debug_str     0x0000000000000cf9      0x18e appinfo.auto.c.8.o
+                                        0x312 (size before relaxing)
+ .debug_str     0x0000000000000e87      0x140 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+                                        0x1d9 (size before relaxing)
+ .debug_str     0x0000000000000fc7      0x3ed /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+                                        0x576 (size before relaxing)
+ .debug_str     0x00000000000013b4       0xcc /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+                                        0x1d1 (size before relaxing)
+ .debug_str     0x0000000000001480       0xa0 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-impure.o)
+                                        0x56d (size before relaxing)
+ .debug_str     0x0000000000001520       0x93 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+                                        0x1fb (size before relaxing)
+ .debug_str     0x00000000000015b3       0x33 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+                                        0x5b5 (size before relaxing)
+ .debug_str     0x00000000000015e6       0x59 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
+                                        0x59a (size before relaxing)
+
+.debug_frame    0x0000000000000000      0x420
+ .debug_frame   0x0000000000000000       0x44 src/calendarApp.c.8.o
+ .debug_frame   0x0000000000000044       0xc0 src/calendarUtils.c.8.o
+ .debug_frame   0x0000000000000104      0x200 src/calendarWindow.c.8.o
+ .debug_frame   0x0000000000000304       0x20 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000324       0x28 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-exit.o)
+ .debug_frame   0x000000000000034c       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000380       0x2c /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-init.o)
+ .debug_frame   0x00000000000003ac       0x34 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__atexit.o)
+ .debug_frame   0x00000000000003e0       0x40 /usr/lib/gcc/arm-none-eabi/4.9.0/../../../../arm-none-eabi/lib/thumb/cortex-m3/libc.a(lib_a-__call_atexit.o)
